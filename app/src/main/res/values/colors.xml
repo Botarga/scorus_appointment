@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="task_pendant">#ffff66</color>
+    <color name="task_payed">#66ff66</color>
+    <color name="task_busy">#ff6699</color>
+    <color name="task_free">#ffffff</color>
+</resources>
